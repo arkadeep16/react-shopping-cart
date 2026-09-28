@@ -1,5 +1,5 @@
 import "./HomePage.css"
-import "./Header.css"
+import "./header.css"
 
 const HomePage = () => {
      return (
